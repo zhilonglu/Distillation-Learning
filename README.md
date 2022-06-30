@@ -7,6 +7,7 @@ All materials related to Knowledge Distillation
 
 ## Codes
 * [Alignahead: Online Cross-Layer Knowledge Extraction on Graph Neural Networks](https://github.com/GuoJY-eatsTG/Alignahead)
+* [Knowledge Distillation Meets Self-Supervision](https://github.com/xuguodong03/SSKD)
 
 
 ## Open-source Implementations
