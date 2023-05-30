@@ -1,4 +1,4 @@
-# KnowledgeDistillation
+# Distillation Learning
 
 All materials related to Distillation Learning
 
