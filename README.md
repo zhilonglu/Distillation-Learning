@@ -1,8 +1,13 @@
 # KnowledgeDistillation
 
-All materials related to Knowledge Distillation
+All materials related to Distillation Learning
 
-## Papers
+## Applications
+### Recommendation System
+* [2018-AAAI-Rocket launching: A universal and efficient framework for training well-performing light net]()
+* [2018-KDD_Ranking distillation: Learning compact ranking models with high performance for recommender system]()
+* [2020-KDD-Privileged Features Distillation at Taobao Recommendations]()
+* 
 
 
 ## Codes
