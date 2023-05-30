@@ -4,10 +4,10 @@ All materials related to Distillation Learning
 
 ## Applications
 ### Recommendation System
-* [2018-AAAI-Rocket launching: A universal and efficient framework for training well-performing light net]()
-* [2018-KDD_Ranking distillation: Learning compact ranking models with high performance for recommender system]()
+* [2018-AAAI-Rocket launching: A universal and efficient framework for training well-performing light net](https://github.com/zhougr1993/Rocket-Launching)
+* [2018-KDD-Ranking distillation: Learning compact ranking models with high performance for recommender system](Ranking distillation: Learning compact ranking models with high performance for recommender system)
 * [2020-KDD-Privileged Features Distillation at Taobao Recommendations]()
-* 
+* [2020-CIKM-Ensembled CTR Prediction via Knowledge Distillation]()
 
 
 ## Codes
