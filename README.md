@@ -21,3 +21,6 @@ All materials related to Distillation Learning
 * [Pytorch implementation of various Knowledge Distillation (KD) methods](https://github.com/AberHu/Knowledge-Distillation-Zoo)
 * [A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility](https://github.com/peterliht/knowledge-distillation-pytorch)
 
+## Survey Papers
+* [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf)
+* [Data Distillation: A Survey](https://arxiv.org/pdf/2301.04272.pdf)
