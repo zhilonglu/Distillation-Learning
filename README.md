@@ -23,4 +23,6 @@ All materials related to Distillation Learning
 
 ## Survey Papers
 * [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf)
+* [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/pdf/2004.05937.pdf)
+* [A Comprehensive Survey of Dataset Distillation](https://arxiv.org/pdf/2301.05603.pdf)
 * [Data Distillation: A Survey](https://arxiv.org/pdf/2301.04272.pdf)
